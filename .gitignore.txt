@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+.env
+
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+.pub-cache/
+.pub/
+
+# Android build
+app/android/.gradle/
+app/android/local.properties
+app/android/app/release/
+
+# IDE
+.idea/
+.vscode/
+*.iml
